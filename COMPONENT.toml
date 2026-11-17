@@ -3,7 +3,7 @@ name = "SigmaOS-configuration-backup"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "configuration-backup component"
+description = "Configuration Backup"
 upstream = []
 
 [contract]
